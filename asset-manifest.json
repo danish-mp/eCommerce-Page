@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eCommerce-Page/static/css/main.b74c84bd.css",
+    "main.js": "/eCommerce-Page/static/js/main.7c5bde44.js",
+    "static/js/453.56f46472.chunk.js": "/eCommerce-Page/static/js/453.56f46472.chunk.js",
+    "static/media/interior-design-concept-.jpg": "/eCommerce-Page/static/media/interior-design-concept-.057701145cdad403dbdd.jpg",
+    "index.html": "/eCommerce-Page/index.html",
+    "main.b74c84bd.css.map": "/eCommerce-Page/static/css/main.b74c84bd.css.map",
+    "main.7c5bde44.js.map": "/eCommerce-Page/static/js/main.7c5bde44.js.map",
+    "453.56f46472.chunk.js.map": "/eCommerce-Page/static/js/453.56f46472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b74c84bd.css",
+    "static/js/main.7c5bde44.js"
+  ]
+}
